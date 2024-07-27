@@ -1,4 +1,4 @@
-﻿# Task Management Application using MERN
+﻿# Task Management System using MERN
 ## Clone the repository or download the zip file
 
 ### To perform the project 
